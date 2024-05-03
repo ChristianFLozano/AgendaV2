@@ -1,0 +1,5 @@
+Nombre: Christian Flores |Codigo: 23421 |Carrera: INNI
+Nombre: Daniel Garcia |Codigo: 89652 |Carrera: INCO
+Nombre: Yael Padilla |Codigo: 56743 |Carrera: QFB
+Nombre: Miguel Candelas |Codigo: 23454 |Carrera: QFP
+Nombre: Ronaldo Macias |Codigo: 46472 |Carrera: INCO
